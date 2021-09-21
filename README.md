@@ -1,1 +1,1 @@
-# BianarySearchTree
+# BianarySearchTree algorithm
